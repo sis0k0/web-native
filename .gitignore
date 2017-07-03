@@ -7,6 +7,9 @@
 
 # dependencies
 /node_modules
+/hooks
+/platforms
+app/**/*.js
 
 # IDEs and editors
 /.idea
