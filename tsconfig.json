@@ -23,5 +23,10 @@
                 "./node_modules/*"
             ]
         }
-    }
+    },
+    "exclude": [
+        "node_modules",
+        "platforms",
+        "**/*.aot.ts"
+    ]
 }
